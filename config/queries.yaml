@@ -1,0 +1,5 @@
+queries:
+   create_table:
+   use_db: use demodb; 
+   select_data: SELECT * FROM employee;
+   insert_into: INSERT INTO EMPLOYEE VALUES ("ANKIT", 123);

@@ -1,0 +1,8 @@
+database:
+   host: 127.0.0.1
+   name: demodb
+   user: root
+   password: Ankit@akgec1
+   port: 3306
+   api_module: pymysql
+   

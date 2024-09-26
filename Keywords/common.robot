@@ -36,6 +36,7 @@ Get Data From Employee
     # Log    ${var}    
     
     Disconnect From Database 
+    Log    Hello
     
 Create Table Person
     Connect To MySQLDB
